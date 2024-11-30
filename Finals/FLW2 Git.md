@@ -27,10 +27,11 @@ GitHub.
 
 
 4.  **What are the basic Git commands?**
+
 ![image](https://github.com/user-attachments/assets/12ea4199-1d69-4f4b-abbf-0ff98065e215)
 
 
-5.  **How do you check the status of a Git repository?**
+6.  **How do you check the status of a Git repository?**
 
 > To check the status of the Git repository, use the "git status"
 > command. This command displays whether the files in the repository are
