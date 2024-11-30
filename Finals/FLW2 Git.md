@@ -23,42 +23,12 @@ GitHub.
 
 3.  **What is the difference between a local repository and a remote
     repository in Git?**
+![image](https://github.com/user-attachments/assets/1f01a86f-8e10-433f-96fe-1827a684915f)
 
-+----------------------------------+-----------------------------------+
-| **Local Repository**             | **Remote Repository**             |
-+==================================+===================================+
-| -   Located on the user\'s       | -   Located on a server that can  |
-|     personal computer and can be |     be accessed or modified       |
-|     accessed or modified offline |     online                        |
-|                                  |                                   |
-| -   Used for version control     | -   Used to share data over the   |
-|     tasks such as committing,    |     server for collaboration with |
-|     viewing logs, or             |     other users online            |
-|     modification                 |                                   |
-|                                  | -   Only some commands can be     |
-| -   Most git commands can be     |     used to interact with the     |
-|     used within the repository   |     repository (e.g. git push,    |
-|     (e.g. git add, git commit,   |     git pull, git clone)          |
-|     git status)                  |                                   |
-+----------------------------------+-----------------------------------+
 
 4.  **What are the basic Git commands?**
+![image](https://github.com/user-attachments/assets/12ea4199-1d69-4f4b-abbf-0ff98065e215)
 
-  -----------------------------------------------------------------------
-  **Git Command**        **Description**
-  ---------------------- ------------------------------------------------
-  Git init               Creates a new repository
-
-  Git clone              Creates a copy of an existing repository
-
-  Git commit             Saves changes to the repository's history
-
-  Git status             Displays the status of the working directory
-                         (modified, untracked, etc.)
-
-  Git branch             Lists, deletes, or creates branches in the
-                         repository
-  -----------------------------------------------------------------------
 
 5.  **How do you check the status of a Git repository?**
 
@@ -82,36 +52,8 @@ GitHub.
 
 7.  **What are GitLab Desktop and GitHub, and how are they different
     from Git?**
+![image](https://github.com/user-attachments/assets/ba011cb1-5251-42c3-8db5-fe7168d7e62c)
 
-+-----------------------+----------------------+-----------------------+
-| **Git**               | **GitLab**           | **GitHub**            |
-+=======================+======================+=======================+
-| -   Locally installed | -   Open-source      | -   Open-source       |
-|     command-line tool |     DevOps platform  |     hosting platform  |
-|     that tracks       |     that offers      |     that offers       |
-|     changes in the    |     repository       |     private and       |
-|     code              |     hosting, project |     public            |
-|                       |     management, and  |     repositories and  |
-| -   Allows users to   |     built-in CI/CD   |     documentation     |
-|     make              |     features         |                       |
-|     modifications     |                      | -   Focused on code   |
-|     offline           | -   More secure as   |     hosting and       |
-|                       |     it has security  |     collaboration     |
-|                       |     features such as |                       |
-|                       |     Static           | -   Enables sharing   |
-|                       |     Application      |     of files online   |
-|                       |     Security Testing |     for collaboration |
-|                       |     (SAST: scans     |                       |
-|                       |     code and detects | -   Has limited CI/CD |
-|                       |     security flaws)  |     features          |
-|                       |     and Dynamic      |                       |
-|                       |     Application      | -   Less secure as it |
-|                       |     Security Testing |     only has basic    |
-|                       |     (DAST: analyzes  |     security features |
-|                       |     responses to     |                       |
-|                       |     malicious        |                       |
-|                       |     inputs)          |                       |
-+-----------------------+----------------------+-----------------------+
 
 8.  **How do you connect a local Git repository to a GitLab or GitHub
     repository?**
