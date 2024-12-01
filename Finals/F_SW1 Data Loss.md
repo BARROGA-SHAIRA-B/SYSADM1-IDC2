@@ -1,17 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 1aa5af989e18489b94704b54dad5e6b2 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Barroga, Shaira B.         | DATE PERFORMED:        | /40      |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED: Nov    |          |
-|                                  | 21, 2024               |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/33f5ba9e-fb3e-4bc2-8eaf-8904a97b544a)
+
 
 # SYSADM1 -- Data Loss
 
