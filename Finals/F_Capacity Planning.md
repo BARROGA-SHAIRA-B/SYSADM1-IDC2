@@ -1,22 +1,5 @@
-+-------------------------------+---------------------------+----------+
-| ![](vertopal_c6d81f           |                           |          |
-| a9111f41158bd3f35728d2336f/me |                           |          |
-| dia/image6.png){width="2.4in" |                           |          |
-| h                             |                           |          |
-| eight="0.5881944444444445in"} |                           |          |
-|                               |                           |          |
-| SCHOOL OF INFORMATION AND     |                           |          |
-| TECHNOLOGY                    |                           |          |
-+===============================+===========================+==========+
-| NAME:                         | DATE PERFORMED:           | /50      |
-|                               |                           |          |
-| BARROGA, SHAIRA B.            | DECEMBER 3, 2024          |          |
-|                               |                           |          |
-| MERCADO, CASSIE KYM M.        |                           |          |
-+-------------------------------+---------------------------+----------+
-| Section: BSIT -- IDC2         | DATE SUBMITTED: DECEMBER  |          |
-|                               | 3, 2024                   |          |
-+-------------------------------+---------------------------+----------+
+![image](https://github.com/user-attachments/assets/2b29a3b8-5449-4465-be78-36a8e55d9790)
+
 
 # SYSADM1 -- Capacity Management & Planning
 
@@ -30,8 +13,8 @@ network\'s scalability and performance to ensure a seamless user
 experience during the peak traffic period. Consider factors such as
 increased user demand, new applications, and security threats.
 
-![](vertopal_c6d81fa9111f41158bd3f35728d2336f/media/image3.png){width="5.052917760279965in"
-height="3.8255161854768156in"}
+![image](https://github.com/user-attachments/assets/0e0c770a-ffd5-422d-b447-c720989ee597)
+
 
 **Network Analysis**
 
@@ -110,97 +93,32 @@ height="3.8255161854768156in"}
 > The addition of a secondary ISP offers redundancy and guarantees
 > network connectivity in the event that the first ISP fails.
 
-+-----------------------------------+-----------------------------------+
-| **Benefits**                      | **Drawbacks**                     |
-+===================================+===================================+
-| -   Offers redundancy to          | -   Maintaining two ISP contracts |
-|     > guarantee uninterrupted     |     > raises operating expenses.  |
-|     > internet access in the      |                                   |
-|     > event of an ISP outage.     | -   Increases network complexity  |
-|                                   |     > by requiring extra          |
-| -   Enhances network              |     > configuration for load      |
-|     > dependability and lowers    |     > balancing or failover.      |
-|     > the possibility of total    |                                   |
-|     > outages.                    |                                   |
-|                                   |                                   |
-| -   Enhances performance during   |                                   |
-|     > times of high traffic by    |                                   |
-|     > supporting load balancing.  |                                   |
-+-----------------------------------+-----------------------------------+
+![image](https://github.com/user-attachments/assets/194c5fe5-0ea5-4144-a7b1-0188510770b3)
+
 
 2.  **Backup Edge Router**
 
 > The installation of a backup edge router guarantees continuity in the
 > event that the primary router malfunctions.
 
-+-----------------------------------+-----------------------------------+
-| **Benefits**                      | **Drawbacks**                     |
-+===================================+===================================+
-| -   Increases fault tolerance by  | -   Increases the expense of      |
-|     > guaranteeing that network   |     > buying and maintaining a    |
-|     > connectivity is maintained  |     > second router.              |
-|     > in the event that the       |                                   |
-|     > primary router              | -   Makes network configuration   |
-|     > malfunctions.               |     > more challenging and        |
-|                                   |     > requires proper redundancy  |
-| -   Allows load sharing, which    |     > configuration.              |
-|     > lessens the strain on the   |                                   |
-|     > main router when traffic is |                                   |
-|     > heavy.                      |                                   |
-|                                   |                                   |
-| -   Increases the overall uptime  |                                   |
-|     > and resilience of the       |                                   |
-|     > network.                    |                                   |
-+-----------------------------------+-----------------------------------+
+![image](https://github.com/user-attachments/assets/f572fc6d-fd04-48bc-8845-6ed728b2b1bf)
+
 
 3.  **Redundant Multilayer and Layer 2 Switches**
 
 Using redundant Layer 2 and Layer 3 core switches enhances fault
 tolerance and traffic distribution.
 
-+-----------------------------------+-----------------------------------+
-| **Benefits**                      | **Drawbacks**                     |
-+===================================+===================================+
-| -   Increases fault tolerance by  | -   Necessitates a large outlay   |
-|     > guaranteeing continuous     |     > of funds for extra          |
-|     > communication between       |     > hardware.                   |
-|     > linked devices and VLANs.   |                                   |
-|                                   | -   Makes setting up and          |
-| -   Effectively manages increased |     > maintaining redundancy      |
-|     > traffic loads by dividing   |     > techniques like link        |
-|     > traffic over several        |     > aggregation and spanning    |
-|     > routes.                     |     > trees more difficult.       |
-|                                   |                                   |
-| -   Lessens the effect of         |                                   |
-|     > individual switch failures  |                                   |
-|     > and improves network        |                                   |
-|     > dependability.              |                                   |
-+-----------------------------------+-----------------------------------+
+![image](https://github.com/user-attachments/assets/10b23038-5d05-4e56-9413-52d8c08d02c0)
+
 
 4.  **Additional Layer 2 Switches in the Access Layer**
 
 More devices can be connected to the network by adding extra Layer 2
 switches at the access layer.
 
-+-----------------------------------+-----------------------------------+
-| **Benefits**                      | **Drawbacks**                     |
-+===================================+===================================+
-| -   Enhances scalability and      | -   Higher hardware expenses and  |
-|     > future-proofs the           |     > more room is needed for the |
-|     > infrastructure by making it |     > positioning of the switch.  |
-|     > simpler to add new devices  |                                   |
-|     > to the network.             | -   Additional configuration and  |
-|                                   |     > cabling may be needed,      |
-| -   Distributes device            |     > which would increase the    |
-|     > connections over several    |     > deployment effort.          |
-|     > switches, lowering the      |                                   |
-|     > possibility of access layer |                                   |
-|     > overload.                   |                                   |
-|                                   |                                   |
-| -   Balances traffic loads,       |                                   |
-|     > improving network           |                                   |
-|     > performance.                |                                   |
-+-----------------------------------+-----------------------------------+
+![image](https://github.com/user-attachments/assets/5ff0dcbd-e962-4929-9110-cdbc922daabb)
+
 
 **Evaluation of Solutions**
 
@@ -300,8 +218,8 @@ performance, reliability, and security during peak hours:
 
 **Network Diagram**
 
-![](vertopal_c6d81fa9111f41158bd3f35728d2336f/media/image7.png){width="7.027083333333334in"
-height="4.055555555555555in"}
+![image](https://github.com/user-attachments/assets/706c7c8a-4bfe-49c1-8f16-c0d41b4118b1)
+
 
 **Network Design**
 
@@ -333,25 +251,23 @@ height="4.055555555555555in"}
 
 1.  **Router**
 
-> ![](vertopal_c6d81fa9111f41158bd3f35728d2336f/media/image2.png){width="3.676389982502187in"
-> height="3.3031517935258092in"}
+![image](https://github.com/user-attachments/assets/e68d60e5-3b41-4721-b56d-92037e21eb57)
+
 
 2.  **Layer 3
-    > Switch**![](vertopal_c6d81fa9111f41158bd3f35728d2336f/media/image5.png){width="2.932292213473316in"
-    > height="2.5915365266841643in"}
 
-> ![](vertopal_c6d81fa9111f41158bd3f35728d2336f/media/image4.png){width="1.921875546806649in"
-> height="4.49044728783902in"}
+![image](https://github.com/user-attachments/assets/78e5834d-399b-46cd-b95c-4e37072db441)
+
 
 3.  **Layer 2 Switch**
 
-> ![](vertopal_c6d81fa9111f41158bd3f35728d2336f/media/image1.png){width="3.9531255468066493in"
-> height="6.223637357830271in"}
+![image](https://github.com/user-attachments/assets/9a3442b4-f4cd-4628-abf5-48399a7dab70)
+
 
 4.  **Firewall**
 
-> ![](vertopal_c6d81fa9111f41158bd3f35728d2336f/media/image8.png){width="4.515625546806649in"
-> height="3.951172353455818in"}
+![image](https://github.com/user-attachments/assets/7e5a095a-a9f5-4e62-89b4-620a8aa8e1be)
+
 
 **Implementation**
 
@@ -580,59 +496,4 @@ events due to the suggested solutions. These solutions also greatly
 improve network resilience, fault tolerance, and performance during
 high-traffic hours.
 
-  ------------------------------------------------------------------------------
-  Criteria          Excellent \| 10pts Good \| 7pts        Needs Improvement \|
-                                                           4pts
-  ----------------- ------------------ ------------------- ---------------------
-  **Network         Accurately         Identifies key      Identifies some basic
-  Analysis**        identifies         network components  network components
-                    potential          and some potential  but lacks a
-                    bottlenecks,       bottlenecks.        comprehensive
-                    security risks,                        analysis.
-                    and capacity                           
-                    limitations.                           
-
-  **Scalability     Proposes multiple  Proposes some       Proposes limited
-  Planning**        relevant solutions relevant            scalability
-                    and provides       scalability         strategies.
-                    detailed           strategies but      
-                    explanations,      lacks detail.       
-                    including                              
-                    potential                              
-                    drawbacks and                          
-                    benefits.                              
-
-  **Evaluation of   Proposes           Provides a basic    Does not evaluate the
-  Solutions**       comprehensive      evaluation of the   proposed solutions or
-                    scalability        proposed solutions, provides a
-                    strategies,        but lacks depth.    superficial
-                    including specific                     evaluation.
-                    recommendations                        
-                    for hardware                           
-                    upgrades, software                     
-                    configurations,                        
-                    and network                            
-                    optimizations.                         
-
-  **Proposed        Provides a         Provides a basic    Does not provide a
-  Design**          detailed and       design but lacks    clear and detailed
-                    well-justified     specific details    design.
-                    design, including  and justifications. 
-                    network diagrams,                      
-                    configuration                          
-                    details, and                           
-                    implementation                         
-                    plans.                                 
-
-  **Evaluation and  Provides a         Provides a basic    Does not evaluate the
-  Justification**   thorough           evaluation of the   proposed solutions or
-                    evaluation of the  proposed solutions, provides a
-                    proposed           but lacks depth.    superficial
-                    solutions,                             evaluation
-                    considering                            
-                    factors like cost,                     
-                    complexity, and                        
-                    potential impact.                      
-
-  Score:                                                   /50
-  ------------------------------------------------------------------------------
+![image](https://github.com/user-attachments/assets/23fff374-3092-4922-98ad-a1807805fbc5)
