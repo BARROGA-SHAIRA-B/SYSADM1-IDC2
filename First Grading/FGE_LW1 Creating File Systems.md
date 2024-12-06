@@ -1,16 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| e590b71e825746989ba370c86713e655 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Barroga, Shaira B.         | DATE PERFORMED: Aug 22 |  45/50   |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/50187246-7f91-494f-b298-4cf60bc9db87)
+
 
 # SYSADM1 -- Introduction to File Systems in Windows and Linux
 
@@ -93,10 +82,8 @@
     read-only, hidden) using the Properties dialog. Observe the changes
     in File Explorer.
 
-> ![](vertopal_e590b71e825746989ba370c86713e655/media/image2.png){width="3.1094892825896765in"
-> height="4.315208880139982in"}
-> ![](vertopal_e590b71e825746989ba370c86713e655/media/image3.png){width="3.1088451443569554in"
-> height="4.314313210848644in"}
+![image](https://github.com/user-attachments/assets/0264408c-cd9a-4857-8e60-2c8de5d07314)
+
 
 14. **Share the folder:** Right-click on the \"Lab1_Windows\" folder,
     select \"Properties,\" and then the \"Sharing\" tab. Share the
@@ -104,8 +91,8 @@
     permissions (e.g., Read, Write, Full control)
 
 > There is no sharing or security tab\
-> ![](vertopal_e590b71e825746989ba370c86713e655/media/image4.png){width="3.173219597550306in"
-> height="3.155242782152231in"}
+![image](https://github.com/user-attachments/assets/d17c47a9-6a26-44fe-8079-99b8ae26ab80)
+
 
 15. **Create an archive:** Use WinRAR or 7-Zip to create a compressed
     archive of the \"Lab1_Windows\" folder.
@@ -115,48 +102,4 @@
 
 Part B. Create a log report structure
 
-  ----------------------------------------------------------------------------------------------------
-  **Lab1_Windows**                                                                       
-  ------------------ ----------------------------- ------------------------------------- -------------
-  **Folders**                                                                            
-
-                     **Location**                                                        **Size**
-
-  LabFiles           Z:\\Lab1_Winodows                                                   111 MB
-
-  Data               Z:\\Lab1_Winodows                                                   0 KB
-
-  Audio              Z:\\Lab1_Winodows\\LabFiles                                         551 KB
-
-  Images             Z:\\Lab1_Winodows\\LabFiles                                         1.33 MB
-
-  Text               Z:\\Lab1_Winodows\\LabFiles                                         100 MB
-
-  Video              Z:\\Lab1_Winodows\\LabFiles                                         9.44 MB
-
-  **Files**                                                                              
-
-                     **Extension**                 **Location**                          **Size**
-
-  info               .txt                          Z:\\Lab1_Winodows                     223 bytes
-
-  data               .txt                          Z:\\Lab1_Winodows\\Data               0 bytes
-
-  song               .mp3                          Z:\\Lab1_Winodows\\LabFiles\\Audio    118 KB
-
-  speech             .wav                          Z:\\Lab1_Winodows\\LabFiles\\Audio    432 KB
-
-  Image1             .jpg                          Z:\\Lab1_Winodows\\LabFiles\\Images   17.5 KB
-
-  Image2             .png                          Z:\\Lab1_Winodows\\LabFiles\\Images   96.7 KB
-
-  Image3             .bmp                          Z:\\Lab1_Winodows\\LabFiles\\Images   1.21 MB
-
-  code               .cpp                          Z:\\Lab1_Winodows\\LabFiles\\Text     223 bytes
-
-  large_text         .txt                          Z:\\Lab1_Winodows\\LabFiles\\Text     100 MB
-
-  small_text         .txt                          Z:\\Lab1_Winodows\\LabFiles\\Text     1 KB
-
-  clip               .mp4                          Z:\\Lab1_Winodows\\LabFiles\\Video    9.43 MB
-  ----------------------------------------------------------------------------------------------------
+ ![image](https://github.com/user-attachments/assets/31e5506b-6f81-447b-ab0a-40baeee1508d)
