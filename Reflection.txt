@@ -1,8 +1,23 @@
 1. What were your initial expectations for the course? Did the course meet, exceed, or fall short of these expectations?
+I expected this course to be a continuation of our previous subject, SERADM, and have similar activities. The course exceeded my expectations since, while some activities were similar, we focused more on management and learned new topics.
+
 2. What were the main topics or concepts covered in the course? How did these topics contribute to your understanding of the subject matter?
+The main topics were learning to use Linux (using commands), understanding EULA, and using Git commands. These topics enhanced my understanding by providing hands-on experience to practice.
+
 3. Reflecting on your learning process, what were the most effective strategies or techniques that helped you grasp and retain the course material?
+Repetition was the most effective strategy for me. Practicing repeatedly helped me retain the course material better.
+
 4. Were there any particular assignments, projects, or activities that significantly enhanced your learning experience? Why were they effective?
+Creating policies and learning about EULA enhanced my learning. These activities were effective because they required attention to detail, which shows the importance of clarity in documentation.
+
 5. Did you encounter any challenges or difficulties during the course? How did you overcome these obstacles, and what did you learn from them?
+Creating policies was difficult for me because I had to make sure they were detailed and covered all necessary aspects. Missing key features (e.g. addressing policy violations) could lead to issues. To overcome this, I organized and planned before writing the policies, imagined myself as the user, and considered the company's perspective. This taught me the importance of being thorough in problem-solving.
+
 6. Did the course encourage critical thinking and analysis? How did it promote higher-order thinking skills, such as problem-solving or decision-making?
+Yes, the course encouraged critical thinking. When managing, I needed to interpret things like response time and CPU utilization to identify potential issues. Also, creating EULA required analyzing how it affects both the user and the company.
+
 7. Reflecting on your personal growth, what new knowledge, skills, or perspectives did you gain from this course?
+I learned to be more observant when managing, organized when planning, and thorough when creating solutions or policies. These skills have improved my ability to analyze and address scenarios effectively.
+
 8. How do you plan to apply what you have learned in this course to your future studies, career, or personal life?
+I can use these skills to create detailed documentation where I explain observations, propose solutions, and explain why they are necessary. These skills can be used in various fields and not just in the IT field.
