@@ -1,114 +1,79 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 1020be74fd694a998cddfd2be06929fb |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION TECHNOLOGY |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Barroga, Shaira B.         |                        |          |
-+----------------------------------+------------------------+----------+
-| SECTION: IDC2                    | DATE SUBMITTED:        |          |
-|                                  | December 8             |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/18738ed8-95b6-4bcc-ae2b-9255557814dd)
+
 
 # SYSADM1 PORTFOLIO
 
 > **Table of Contents**
 
-+------------------------------------------------+--------------+------+
-| **Name of Activities**                         | **Date of    | **   |
-|                                                | Activity**   | Page |
-|                                                |              | N    |
-|                                                |              | o.** |
-+------------------------------------------------+--------------+------+
-| **First Grading**                              |              |      |
-+------------------------------------------------+--------------+------+
-| > Evolution of Systems Administration: From    | August 14    | 3    |
-| > Manual to Automated                          |              |      |
-+------------------------------------------------+--------------+------+
-| > Creating File Systems                        | August 22    | 4    |
-+------------------------------------------------+--------------+------+
-| > Managing Services in Linux                   | September 12 | 8    |
-+------------------------------------------------+--------------+------+
-| **Midterms**                                   |              |      |
-+------------------------------------------------+--------------+------+
-| > Activity 1                                   | September 26 | 12   |
-+------------------------------------------------+--------------+------+
-| > Server                                       | October 8    | 13   |
-+------------------------------------------------+--------------+------+
-| > Activity 2                                   | October 10   | 16   |
-+------------------------------------------------+--------------+------+
-| **Finals**                                     |              |      |
-+------------------------------------------------+--------------+------+
-| > Git                                          | November 21  | 17   |
-+------------------------------------------------+--------------+------+
-| > Data Loss                                    | November 21  | 20   |
-+------------------------------------------------+--------------+------+
-| > Capacity Management & Planning               | November 28  | 23   |
-+------------------------------------------------+--------------+------+
-| Course Reflection                              |              |      |
-+------------------------------------------------+--------------+------+
+![image](https://github.com/user-attachments/assets/232559f1-a2d6-4efd-9e0b-7a0236e8ffaf)
+![image](https://github.com/user-attachments/assets/b93c1b7f-170e-473a-b647-5b4163b39e1d)
+
+
 
 **First Grading**
 
 **Evolution of Systems Administration: From Manual to Automated**
 
-![](vertopal_1020be74fd694a998cddfd2be06929fb/media/image2.jpeg){width="7.0in"
-height="9.244444444444444in"}
+![image](https://github.com/user-attachments/assets/18252a7a-3e7e-4571-87cb-8a2cc4c4f170)
+
 
 **Creating File
-Systems**![](vertopal_1020be74fd694a998cddfd2be06929fb/media/image3.png){width="7.0in"
-height="9.058333333333334in"}![](vertopal_1020be74fd694a998cddfd2be06929fb/media/image4.png){width="7.0in"
-height="9.058333333333334in"}![](vertopal_1020be74fd694a998cddfd2be06929fb/media/image5.png){width="7.0in"
-height="9.058333333333334in"}![](vertopal_1020be74fd694a998cddfd2be06929fb/media/image6.png){width="7.0in"
-height="9.058333333333334in"}
+![image](https://github.com/user-attachments/assets/cabcba44-f8c8-48a6-9294-8548a7e73f73)
+![image](https://github.com/user-attachments/assets/bc8ec34f-9e78-46a5-9c59-3deeacd0a2cb)
+![image](https://github.com/user-attachments/assets/bd54d89e-7f83-45c8-8d77-e47e3de4346a)
+![image](https://github.com/user-attachments/assets/c7c7d68e-f60f-42f3-8e51-2e98aa573fe8)
 
-**Managing Services in
-Linux**![](vertopal_1020be74fd694a998cddfd2be06929fb/media/image7.png){width="7.0in"
-height="9.058333333333334in"}![](vertopal_1020be74fd694a998cddfd2be06929fb/media/image8.png){width="7.0in"
-height="9.058333333333334in"}![](vertopal_1020be74fd694a998cddfd2be06929fb/media/image9.png){width="7.0in"
-height="9.058333333333334in"}![](vertopal_1020be74fd694a998cddfd2be06929fb/media/image10.png){width="7.0in"
-height="9.058333333333334in"}
+
+**Managing Services in Linux**
+![image](https://github.com/user-attachments/assets/19d8225a-d8ff-49f1-9628-8090ee170406)
+![image](https://github.com/user-attachments/assets/e591f861-0dbe-4e72-8881-6acea3833d7b)
+![image](https://github.com/user-attachments/assets/6a6b1882-5043-4bc0-90cc-7428b37bde37)
+![image](https://github.com/user-attachments/assets/b0e021ea-8232-4229-af93-4bc7351bc350)
+
+
 
 **Midterms**
 
 **Activity 1**
 
-![](vertopal_1020be74fd694a998cddfd2be06929fb/media/image11.jpeg){width="5.95558508311461in"
-height="9.05172462817148in"}
+![image](https://github.com/user-attachments/assets/d21a78bc-8814-4de7-9645-e05324408882)
+
 
 **Server**
 
-![](vertopal_1020be74fd694a998cddfd2be06929fb/media/image12.jpeg){width="6.207791994750656in"
-height="9.517057086614173in"}
+![image](https://github.com/user-attachments/assets/0b9f48e0-f8f2-4007-abc8-63ce1e6e3c6b)
+
 
 **Activity 2**
 
-![](vertopal_1020be74fd694a998cddfd2be06929fb/media/image13.jpeg){width="7.0in"
-height="8.98263888888889in"}
+![image](https://github.com/user-attachments/assets/136a6f64-7d9e-4508-8285-732f3c97b61e)
+
 
 **Finals**
 
 **Git**
 
-![](vertopal_1020be74fd694a998cddfd2be06929fb/media/image14.png){width="6.137725284339457in"
-height="9.395138888888889in"}
+![image](https://github.com/user-attachments/assets/6e52fdd4-7b5f-4e04-9889-969dcea13556)
 
-![](vertopal_1020be74fd694a998cddfd2be06929fb/media/image15.png){width="6.465277777777778in"
-height="9.896527777777777in"}![](vertopal_1020be74fd694a998cddfd2be06929fb/media/image16.png){width="6.465277777777778in"
-height="9.896527777777777in"}
+![image](https://github.com/user-attachments/assets/80a6d1fd-2ab2-4077-8a03-3684ee9d2827)
 
-**Data
-Loss**![](vertopal_1020be74fd694a998cddfd2be06929fb/media/image17.png){width="7.0in"
-height="9.046527777777778in"}![](vertopal_1020be74fd694a998cddfd2be06929fb/media/image18.png){width="7.0in"
-height="9.046527777777778in"}![](vertopal_1020be74fd694a998cddfd2be06929fb/media/image19.png){width="7.0in"
-height="9.046527777777778in"}
+![image](https://github.com/user-attachments/assets/eee3be0e-283c-469e-b2e6-ba7ed3054fe3)
+
+
+
+**Data Loss**
+![image](https://github.com/user-attachments/assets/8a462525-646a-43ff-bd58-0a1b194ac87a)
+
+![image](https://github.com/user-attachments/assets/cb9ecce6-8c71-4075-823c-bb33af29cf3c)
+
+![image](https://github.com/user-attachments/assets/3c1fbe92-fbf2-4c42-9bdd-03d27502d640)
+
+
 
 **Capacity Management & Planning**
 
-![](vertopal_1020be74fd694a998cddfd2be06929fb/media/image20.jpeg){width="7.0in"
-height="8.948611111111111in"}
+![image](https://github.com/user-attachments/assets/f2bcb55c-0a0a-4fb8-864a-357b62fac6a3)
+
 
 **Course Reflection**
 
